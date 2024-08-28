@@ -8,7 +8,7 @@ The International Baccalaureate® provides a pseudocode offering convenient meth
 | -----------: | :--------------: | :-------------------------: |
 | Queue | ✓ | 🚧  |
 | Stack    | ✓ | 🚧 |
-| Collections | 🚧 | 🚧 |
+| Collections | ✓ | 🚧 |
 
 For documentation, kindly refer to the [IB Pseudocode rules](https://ib.compscihub.net/wp-content/uploads/2015/04/IB-Pseudocode-rules.pdf).
 
